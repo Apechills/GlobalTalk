@@ -1,13 +1,13 @@
 ##CHANGELOG AEROTHEME
-##28/7/2018
+##28/7/2018 - v0.01
   - Changed basic color scheme
   - Updated submit/create subreddit button to rectangular block
   - Updated fonts
   - Updated sidebar contentboxes (added shadow, removed border)
-##29/7/2018
+##29/7/2018 - v0.02
   - Remade color scheme
   - Updated tabmenu to blend in with theme
-##30/7/2018
+##30/7/2018 - v0.03
   - Fixed tabmenu margin
   - Inverted shadow on morelink button
   - Updated userbar/header bottom right
