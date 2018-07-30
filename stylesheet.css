@@ -25,7 +25,7 @@ div#header-bottom-left {
 /*###HEADER TABMENU###*/
 
 ul.tabmenu li {
-    margin: 0px 0px 0px 0px;
+    margin: 0px;
 }
 
 ul.tabmenu li.selected a {
@@ -35,7 +35,10 @@ ul.tabmenu li.selected a {
 }
 
 ul.tabmenu li a {
-    padding: 6px 12px;
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    padding: 0px 8px;
     background-color: #40A7F6;
     color: white;
 }
