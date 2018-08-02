@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills
-V0.03
+V0.04
 ###*/
 
 /*###BODY###*/
@@ -21,6 +21,16 @@ div#header {
 div#header-bottom-left {
     position: absolute;
     bottom: 0px;
+}
+
+/*###HEADER SR AREA###*/
+
+div#sr-header-area {
+    background-color: #40A7F6;
+}
+
+div#sr-header-area * {
+    color: white;
 }
 
 /*###HEADER TABMENU###*/
