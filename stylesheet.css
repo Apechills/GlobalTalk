@@ -166,14 +166,3 @@ div.sidecontentbox div.title {
 div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     background-color: transparent;
 }
-
-/*###LINK FLAIRS###*/
-.linkflair-resource .linkflairlabel {
-    background-color:#00a6a5;
-    color: white;
-}
-
-.linkflair-help .linkflairlabel {
-    background-color:#ffd635;
-    color: black;
-}
