@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills
-V0.05
+v0.11
 ###*/
 
 /*###BODY###*/
@@ -12,7 +12,7 @@ body {
 /*###HEADER###*/
 
 div#header {
-    background-color: #81D486;
+    background-color: #07A058;
     height: 110px;
     border-bottom: none;
     position: relative;
@@ -23,10 +23,10 @@ div#header-bottom-left {
     bottom: 0px;
 }
 
-/*###HEADER SR AREA###*/
+/*###HEADER SR AREA (SUBREDDIT LINKS)###*/
 
 div#sr-header-area {
-    background-color: #40A7F6;
+    background-color: #15B2D3;
 }
 
 div#sr-header-area * {
@@ -37,7 +37,7 @@ div#sr-header-area * {
 	background: inherit !important;
 }
 
-/*###HEADER TABMENU###*/
+/*###HEADER TABMENU(SORT BY, WIKI ETC)###*/
 
 ul.tabmenu {
     margin: 0px;
@@ -49,7 +49,7 @@ ul.tabmenu li {
 
 ul.tabmenu li.selected a {
     border: none;
-    background-color: #8ECAF6;
+    background-color: #fff;
     color: black;
 }
 
@@ -58,14 +58,14 @@ ul.tabmenu li a {
     height: 24px;
     line-height: 24px;
     padding: 0px 8px;
-    background-color: #40A7F6;
+    background-color: #15B2D3;
     color: white;
 }
 
 /*###HEADER BOTTOM RIGHT###*/
 
 div#header-bottom-right {
-    background-color: #40A7F6;
+    background-color: #15B2D3;
     position: absolute;
     bottom: 0;
     padding: 0px 5px;
@@ -74,7 +74,7 @@ div#header-bottom-right {
 }
 
 .res-navTop #header-bottom-right {
-    color: white;
+    color: ;
     border-radius: 0px 0px 0px 0px;
     position: absolute;
     top: auto;
@@ -92,7 +92,7 @@ div#header-bottom-right * {
 div.morelink {
     border: none;
     background-image: none;
-    background-color: #40A7F6;
+    background-color: #15B2D3;
     -webkit-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     -moz-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
@@ -101,7 +101,7 @@ div.morelink {
 
 div.morelink:hover {
     background-image: none;
-    background-color: #8ECAF6;
+    background-color: #19D5FC;
     -webkit-box-shadow: 4px 7px 6px -1px rgba(0,0,0,0.24);
     -moz-box-shadow: 3px 5px 4px -1px rgba(0,0,0,0.24);
     box-shadow: 3px 5px 4px -1px rgba(0,0,0,0.24);
@@ -165,4 +165,15 @@ div.sidecontentbox div.title {
 
 div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     background-color: transparent;
+}
+
+/*###LINK FLAIRS###*/
+.linkflair-resource .linkflairlabel {
+    background-color:#00a6a5;
+    color: white;
+}
+
+.linkflair-help .linkflairlabel {
+    background-color:#ffd635;
+    color: black;
 }
