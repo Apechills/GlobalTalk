@@ -1,5 +1,7 @@
 # CHANGELOG AEROTHEME
 
+Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
+
 ## UNRELEASED
 ### 28/7/2018 - [v0.01]
   - Changed basic color scheme
