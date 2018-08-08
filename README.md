@@ -1,5 +1,5 @@
 # AeroTheme
-[![version][version-badge]]
+![version][version-badge]
 
 A reddit CSS theme for subreddits.
 
