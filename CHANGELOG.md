@@ -2,7 +2,7 @@
 
 Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
 
-## [UNRELEASED](https://www.reddit.com/r/CssTest111/)
+## [UNRELEASED](https://old.reddit.com/r/CssTest111/)
 ### 28/7/2018 - v0.01
   - Changed basic color scheme
   - Updated submit/create subreddit button to rectangular block
@@ -19,5 +19,4 @@ Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
   - Updated sr area to blend in with theme
 ### 5/8/2018 - v0.10
   - Updated RES Shortcut Editor
-### 7/8/2018 - v0.11
-  - Changed color scheme
+## [RELEASED](https://old.reddit.com/r/globaltalk)
