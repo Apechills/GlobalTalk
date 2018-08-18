@@ -17,6 +17,8 @@ Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
   - Updated userbar/header bottom right
 ### 2/8/2018 - v0.04
   - Updated sr area to blend in with theme
+## [RELEASED](https://old.reddit.com/r/globaltalk)
 ### 5/8/2018 - v0.10
   - Updated RES Shortcut Editor
-## [RELEASED](https://old.reddit.com/r/globaltalk)
+### 18/8/2018 - v0.11
+  - Updated subreddit logo
