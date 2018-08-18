@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.10
+V0.11
 ###*/
 
 /*###BODY###*/
@@ -37,7 +37,7 @@ div#sr-header-area * {
 	background: inherit !important;
 }
 
-/*###HEADER TABMENU###*/
+/*###HEADER BOTTOM LEFT###*/
 
 ul.tabmenu {
     margin: 0px;
@@ -60,6 +60,13 @@ ul.tabmenu li a {
     padding: 0px 8px;
     background-color: #40A7F6;
     color: white;
+}
+
+/*###LOGO###*/
+
+a#header-img.default-header {
+    width: 60px;
+    height: 60px;
 }
 
 /*###HEADER BOTTOM RIGHT###*/
@@ -166,14 +173,3 @@ div.sidecontentbox div.title {
 div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     background-color: transparent;
 }
-
-/*###LINK FLAIRS###*/
-/*.linkflair-resource .linkflairlabel {
-    background-color:#00a6a5;
-    color: white;
-}
-
-.linkflair-help .linkflairlabel {
-    background-color:#ffd635;
-    color: black;
-} */
