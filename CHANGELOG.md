@@ -22,3 +22,5 @@ Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
   - Updated RES Shortcut Editor
 ### 18/8/2018 - v0.11
   - Updated subreddit logo
+### 22/8/2018 - v0.12
+  - Added discord button CSS
