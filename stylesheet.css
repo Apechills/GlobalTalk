@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.12
+V0.13
 ###*/
 
 /*###BODY###*/
@@ -179,8 +179,8 @@ div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
 .titlebox h4 a {
     letter-spacing: 0px;
     display: block;
-    width: 250px;
     height: 29px;
+    width: 250px;
     text-align: center;
     line-height: 29px;
     font-family: roboto, arial, verdana;
@@ -204,4 +204,14 @@ div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     -moz-box-shadow: 3px 5px 4px -1px rgba(0,0,0,0.24);
     box-shadow: 3px 5px 4px -1px rgba(0,0,0,0.24);
     transition: 0.2s;
+    background-image: url(%%Discord-Logo-White%%);
+}
+
+/*###SIDEBAR DISCORD BUTTON###*/
+
+.titlebox h4 a {
+    background-image: url(%%Discord-Logo-White%%);
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: 2% 70%;
 }
