@@ -26,3 +26,5 @@ Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
   - Added discord button CSS
 ### 24/8/2018 - v0.13
   - Added discord logo to button
+### 28/8/2018 - v0.14
+  - Make the "My Subreddits" dropdown readable (old.reddit.com)
