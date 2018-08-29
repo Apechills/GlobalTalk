@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.13
+V0.14
 ###*/
 
 /*###BODY###*/
@@ -29,13 +29,14 @@ div#sr-header-area {
     background-color: #40A7F6;
 }
 
+div#sr-header-area .drop-choices.srdrop {
+            background-color: #40A7F6;
+        }
+
+
+
 div#sr-header-area * {
     color: white;
-}
-
-div#sr-header-area .drop-choices.srdrop {
-    background-color: #40A7F6;
-    box-shadow: 3px 3px 6px rgba(0,0,0,.42);
 }
 
 #RESShortcutsEditContainer, #RESShortcutsSort, #RESShortcutsRight, #RESShortcutsLeft, #RESShortcutsAdd, #RESShortcutsTrash {
@@ -153,7 +154,7 @@ div.titlebox form.toggle {
     background: transparent;
 }
 
-div.titlebox div {
+div.leavemoderator {
     background: transparent;
 }
 
