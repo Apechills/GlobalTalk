@@ -29,3 +29,5 @@ Loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format
 ### 28/8/2018 - v0.14
   - Make the "My Subreddits" dropdown readable (old.reddit.com)
   - Fix flair selector background
+### 31/8/2018 - v0.15
+  - Updated link flair CSS
