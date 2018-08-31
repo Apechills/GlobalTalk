@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.14
+V0.15
 ###*/
 
 /*###BODY###*/
@@ -30,8 +30,8 @@ div#sr-header-area {
 }
 
 div#sr-header-area .drop-choices.srdrop {
-            background-color: #40A7F6;
-        }
+    background-color: #40A7F6;
+}
 
 
 
@@ -220,4 +220,31 @@ div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     background-size: 25px 25px;
     background-repeat: no-repeat;
     background-position: 2% 70%;
+}
+
+/*###LINKFLAIRS###*/
+
+.linkflairlabel {
+    border: none;
+    border-radius: 0px;
+    -webkit-box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.32);
+    -moz-box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.32);
+    box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.32);
+}
+
+/*###LINKFLAIR SPECIFIED###*/
+
+.linkflair-question .linkflairlabel {
+    background-color: #FF0000;
+    color: white;
+}
+
+.linkflair-global .linkflairlabel {
+    background-color: #FF0000;
+    color: white;
+}
+
+.linkflair-unverified .linkflairlabel {
+    background-color: #FF0000;
+    color: white;
 }
