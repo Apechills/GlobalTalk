@@ -15,3 +15,15 @@ Thank you for considering to help me on this journey to make the CSS for r/Globa
 * When submitting an issue, please make sure your title and description are clear and understandable.
 * Assign a lable to the issue. If you feel like there are no lables descriptive enough contact someone able to create new ones.
 * Assign the project to the issue, the project is automated and will automatically generate a card in the to-do section.
+
+## CSS
+
+* Please use the default CSS indentdation as a formatting standard which is as follows:
+
+```
+ul.tabmenu {
+    margin: 0px;
+}
+```
+
+* To indent something please use tab instead of spaces
