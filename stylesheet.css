@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.15.1
+V0.15.2
 ###*/
 
 /*###BODY###*/
@@ -100,6 +100,35 @@ div#header-bottom-right * {
     font-size: 12px;
 }
 
+/*###SIDEBAR SEARCHEXPANDO###*/
+
+div#searchexpando.infobar {
+    background-color: #40A7F6;
+    border: none;
+    -webkit-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
+    -moz-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
+    box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
+    border-radius: 0px;
+}
+
+#moresearchinfo {
+    display: none;
+}
+
+a#search_showmore {
+    display: none;
+}
+
+#search #searchexpando label {
+    padding-top: 5px;
+    padding-bottom: 13px;
+}
+
+#searchexpando br {
+    display: none;
+}
+
+
 /*###SIDEBAR LINKS###*/
 
 div.morelink {
@@ -142,6 +171,7 @@ div.titlebox {
     -webkit-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     -moz-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
+    padding: 5px;
 }
 
 div.titlebox h1 {
@@ -165,6 +195,7 @@ div.sidecontentbox {
     -webkit-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     -moz-box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
     box-shadow: 3px 4px 4px -1px rgba(0,0,0,0.24);
+    padding: 5px;
 }
 
 div.sidecontentbox ul.content {
