@@ -1,6 +1,6 @@
 /*###
 CSS By u/Apechills made for r/GlobalTalk, lightly based on r/AeroTheme
-V0.15.2
+V0.15.3
 ###*/
 
 /*###BODY###*/
@@ -263,6 +263,49 @@ div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.32);
 }
 
+/*###USER FLAIR###*/
+
+.flair {
+	text-indent: -9999px;
+	margin-right: 3px;
+	width: 16px;
+	height: 11px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-image: url(%%flags%%);
+	vertical-align: middle;
+	border-width: 0;
+	padding: 0;
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+.flair-other {
+    background: #dadada;
+    text-indent: 0;
+    padding: 1px 3px;
+    color: black;
+    vertical-align: top;
+    width: auto;
+    height: auto;
+    -webkit-box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+    -moz-box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+    box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+}
+
+.flair-mod {
+    background: #94e044;
+    text-indent: 0;
+    padding: 1px 3px;
+    color: white;
+    vertical-align: top;
+    width: auto;
+    height: auto;
+    -webkit-box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+    -moz-box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+    box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.24);
+}
+
 /*###LINKFLAIR SPECIFIED###*/
 
 .linkflair-question .linkflairlabel {
@@ -279,3 +322,6 @@ div.sidecontentbox ul.content ul.flat-vert.icon-menu.hover li a {
     background-color: #FF0000;
     color: white;
 }
+
+/*###FLAIR FLAGS####*/
+
